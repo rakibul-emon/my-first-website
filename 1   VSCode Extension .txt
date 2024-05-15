@@ -1,0 +1,8 @@
+1  Live Server
+2  Live Preview
+3  Prettier code formatter
+4  Auto Rename Tag
+5  HTML End Tag Labels
+6  Image Preview
+7  CodeSnap
+8  GitHub Themes
